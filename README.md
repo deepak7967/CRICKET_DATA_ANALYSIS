@@ -8,7 +8,6 @@ The data was scraped from the ESPNcricinfo Statsguru website, cleaned using Powe
 
 The goal of this project is to explore cricket statistics and present meaningful insights using data analytics and visualization techniques.
 
----
 
 ##  Data Collection
 The dataset was collected by scraping match statistics from the **Statsguru** website.
@@ -19,7 +18,6 @@ Steps followed:
 - Extracted data for batting, bowling, and fielding records
 - Imported the data directly into Power BI
 
----
 
 ##  Data Cleaning & Transformation
 Data cleaning was performed using **Power Query Editor**.
@@ -49,7 +47,6 @@ Metrics included:
 
 Interactive **player slicer** allows users to filter and analyze individual player performance.
 
----
 
 ###  Bowling Analysis
 ![bowl](https://github.com/deepak7967/CRICKET_DATA_ANALYSIS/blob/main/dashboards/bowl.png)
@@ -66,7 +63,6 @@ Key metrics:
 
 This helps identify the **most effective bowlers** in IND vs SA matches.
 
----
 
 ###  Fielding Analysis
 ![field](https://github.com/deepak7967/CRICKET_DATA_ANALYSIS/blob/main/dashboards/field.png)
@@ -82,8 +78,6 @@ Metrics included:
 
 This provides insights into **fielding impact in matches**.
 
----
-
 ##  Tools & Technologies
 - Microsoft Power BI  
 - Power Query  
@@ -91,7 +85,6 @@ This provides insights into **fielding impact in matches**.
 - Data Visualization  
 - Sports Data Analytics  
 
----
 
 ##  Key Features
 * Data scraped directly from Statsguru  
@@ -100,7 +93,6 @@ This provides insights into **fielding impact in matches**.
 * Clean and simple dashboard design  
  Player-level performance insights  
 
----
 
 ##  Learning Outcomes
 Through this project, I learned:
@@ -110,7 +102,6 @@ Through this project, I learned:
 - Building interactive dashboards in Power BI  
 - Presenting sports analytics through data visualization  
 
----
 
 ##  Future Improvements
 Future enhancements planned for this project:
