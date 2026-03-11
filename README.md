@@ -1,4 +1,5 @@
 # India vs South Africa ODI Performance Analysis (Power BI)
+![logo](https://github.com/deepak7967/CRICKET_DATA_ANALYSIS/blob/main/dashboards/logo.jpeg)
 
 ##  Project Overview
 This project analyzes the **ODI cricket performance between India and South Africa** using interactive dashboards built in Microsoft Power BI.
