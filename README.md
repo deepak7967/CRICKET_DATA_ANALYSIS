@@ -94,11 +94,11 @@ This provides insights into **fielding impact in matches**.
 ---
 
 ##  Key Features
-✔ Data scraped directly from Statsguru  
-✔ Interactive dashboards with slicers  
-✔ Separate analysis for batting, bowling, and fielding  
-✔ Clean and simple dashboard design  
-✔ Player-level performance insights  
+* Data scraped directly from Statsguru  
+* Interactive dashboards with slicers  
+* Separate analysis for batting, bowling, and fielding  
+* Clean and simple dashboard design  
+ Player-level performance insights  
 
 ---
 
@@ -115,6 +115,5 @@ Through this project, I learned:
 ##  Future Improvements
 Future enhancements planned for this project:
 
-- Add a **Performance Overview page** for player comparison  
 - Include **advanced visualizations** for deeper insights  
 - Create **player ranking analysis**
