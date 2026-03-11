@@ -33,6 +33,7 @@ Key steps included:
 
 
 ### Batting Analysis
+![batt](https://github.com/deepak7967/CRICKET_DATA_ANALYSIS/blob/main/dashboards/batt.png)
 This page focuses on player batting performance against South Africa.
 
 Metrics included:
@@ -50,6 +51,7 @@ Interactive **player slicer** allows users to filter and analyze individual play
 ---
 
 ###  Bowling Analysis
+![bowl](https://github.com/deepak7967/CRICKET_DATA_ANALYSIS/blob/main/dashboards/bowl.png)
 This dashboard analyzes bowling performance.
 
 Key metrics:
@@ -66,6 +68,7 @@ This helps identify the **most effective bowlers** in IND vs SA matches.
 ---
 
 ###  Fielding Analysis
+![field](https://github.com/deepak7967/CRICKET_DATA_ANALYSIS/blob/main/dashboards/field.png)
 This page evaluates the fielding contributions of players.
 
 Metrics included:
